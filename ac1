@@ -1,0 +1,6 @@
+git stash
+git rebase
+git sqash
+git reflog
+git amend
+git diff
